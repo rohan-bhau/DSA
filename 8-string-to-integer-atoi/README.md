@@ -2,7 +2,7 @@
 
 **Difficulty:** Medium
 **Tags:** String
-**Runtime:** 1 ms | **Memory:** 58.5 MB
+**Runtime:** 64 ms | **Memory:** 58.6 MB
 **Link:** https://leetcode.com/problems/string-to-integer-atoi/
 
 ---
