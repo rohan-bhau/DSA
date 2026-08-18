@@ -2,12 +2,12 @@
 
 **Difficulty:** Easy
 **Tags:** Array, Hash Table
-**Runtime:** 34 ms | **Memory:** 55.9 MB
+**Runtime:** 33 ms | **Memory:** 55.8 MB
 **Link:** https://leetcode.com/problems/two-sum/
 
 ---
 
-Given an array of integers `nums` and an integer `target`, return *indices of the two numbers such that they add up to `target`*.
+You are given an array of integers `nums` and an integer `target`, return *indices of the two numbers such that they add up to `target`*.
 
 You may assume that each input would have ***exactly* one solution**, and you may not use the *same* element twice.
 
