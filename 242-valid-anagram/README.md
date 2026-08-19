@@ -2,7 +2,7 @@
 
 **Difficulty:** Easy
 **Tags:** Hash Table, String, Sorting
-**Runtime:** 5 ms | **Memory:** 19.4 MB
+**Runtime:** 30 ms | **Memory:** 58.1 MB
 **Link:** https://leetcode.com/problems/valid-anagram/
 
 ---
