@@ -2,7 +2,7 @@
 
 **Difficulty:** Easy
 **Tags:** Hash Table, Math, String
-**Runtime:** 2 ms | **Memory:** 60.9 MB
+**Runtime:** 8 ms | **Memory:** 60.4 MB
 **Link:** https://leetcode.com/problems/roman-to-integer/
 
 ---
