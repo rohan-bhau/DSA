@@ -2,7 +2,7 @@
 
 **Difficulty:** Easy
 **Tags:** Array, Hash Table
-**Runtime:** 33 ms | **Memory:** 55.8 MB
+**Runtime:** 32 ms | **Memory:** 55.7 MB
 **Link:** https://leetcode.com/problems/two-sum/
 
 ---
