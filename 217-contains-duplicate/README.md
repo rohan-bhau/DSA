@@ -2,7 +2,7 @@
 
 **Difficulty:** Easy
 **Tags:** Array, Hash Table, Sorting
-**Runtime:** 25 ms | **Memory:** 79 MB
+**Runtime:** 11 ms | **Memory:** 80.1 MB
 **Link:** https://leetcode.com/problems/contains-duplicate/
 
 ---
